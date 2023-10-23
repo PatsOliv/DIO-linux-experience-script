@@ -1,2 +1,2 @@
-# linux-experience-dio-script
-Atividades do curso linux da plataforma dio
+# linux-experience-dio-shell-script
+Atividades do curso de linux da plataforma dio
